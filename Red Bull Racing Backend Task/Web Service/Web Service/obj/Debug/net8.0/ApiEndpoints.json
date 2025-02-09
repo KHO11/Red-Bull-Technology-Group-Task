@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "StandingsController",
+    "Method": "GetDriverStandings",
+    "RelativePath": "api/standings/drivers/{season}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "season",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
